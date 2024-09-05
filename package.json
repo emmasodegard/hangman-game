@@ -1,0 +1,12 @@
+{
+  "name": "hangman-game",
+  "version": "1.0.0",
+  "main": "hangman.js",
+  "type": "module",
+  "scripts": {
+    "start": "node hangman.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

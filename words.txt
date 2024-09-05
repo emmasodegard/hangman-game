@@ -1,0 +1,16 @@
+elephant
+giraffe
+kangaroo
+penguin
+coconut
+laptop
+bicycle
+chocolate
+mountain
+river
+jungle
+volcano
+diamond
+unicorn
+wizard
+robot
