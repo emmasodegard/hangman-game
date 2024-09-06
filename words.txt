@@ -1,7 +1,6 @@
 elephant
 giraffe
 kangaroo
-penguin
 coconut
 laptop
 bicycle
@@ -14,3 +13,13 @@ diamond
 unicorn
 wizard
 robot
+banana
+strawberry
+watermelon
+grapefruit
+pineapple
+keyboard
+monitor
+backpack
+notebook
+headphones
